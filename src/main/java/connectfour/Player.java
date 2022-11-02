@@ -1,13 +1,5 @@
 package connectfour;
 
-/**
- * Name: Sulakshan Sivakumaran
- * Student ID: 1185052
- * Class: CIS*2430
- * Email: sulaksha@uoguelph.ca
- * Date: October 18, 2022
- */
-
  /**
  * Represent a class for a Player for the Connect 4 game.
  * 2 players will be active in a game of Connect 4.

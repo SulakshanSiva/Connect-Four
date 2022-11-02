@@ -3,14 +3,6 @@ package connectfour;
 import java.io.IOException;
 import java.util.Scanner;
 
-/**
- * Name: Sulakshan Sivakumaran
- * Student ID: 1185052
- * Class: CIS*2430
- * Email: sulaksha@uoguelph.ca
- * Date: October 18, 2022
- */
-
  /*
   * Represents a class to hand player turn functionality and run the actual game
   */

@@ -11,14 +11,6 @@ you can see how junit works.
 Tests are run on build unless specifically excluded with -x test.
 The test results are reported in the reports subfolder of the build directory */
 
-/**
- * Name: Sulakshan Sivakumaran
- * Student ID: 1185052
- * Class: CIS*2430
- * Email: sulaksha@uoguelph.ca
- * Date: October 18, 2022
- */
-
 /*
  * Class to run automated tests for the board class
  */

@@ -2,13 +2,6 @@ package connectfour;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
-/**
- * Name: Sulakshan Sivakumaran
- * Student ID: 1185052
- * Class: CIS*2430
- * Email: sulaksha@uoguelph.ca
- * Date: October 18, 2022
- */
 
  /*
   * Represent a class to handle user input and display message to user.

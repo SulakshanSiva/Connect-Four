@@ -1,13 +1,5 @@
 package connectfour;
 
-/**
- * Name: Sulakshan Sivakumaran
- * Student ID: 1185052
- * Class: CIS*2430
- * Email: sulaksha@uoguelph.ca
- * Date: October 18, 2022
- */
-
 /*
  * Represent a class that throws an a custom exception
  * when a incorrect file format is given.

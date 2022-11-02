@@ -1,13 +1,5 @@
 package connectfour;
 
-/**
- * Name: Sulakshan Sivakumaran
- * Student ID: 1185052
- * Class: CIS*2430
- * Email: sulaksha@uoguelph.ca
- * Date: October 18, 2022
- */
-
  /*
   * Represent a class that handles all board functionality from creating board, checking for wins 
   * and making player moves on the board
