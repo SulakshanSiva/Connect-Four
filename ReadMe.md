@@ -48,10 +48,6 @@ In this program, there are a few limitations that could hinder the user's playin
 
 Name: Sulakshan Sivakumaran
 
-Student ID: 1185052
-
-Email: sulaksha@uoguelph.ca
-
 ## Development History
 * 0.8.2
     * Commented
